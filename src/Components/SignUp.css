@@ -1,0 +1,29 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 30px;
+    
+}
+.email-container,input,.password-container{
+    font-size: 3.5rem;
+}
+fieldset{
+    background-color:#FFE5B4;
+    border-color: royalblue;
+    border-radius: 1rem;
+}
+input{
+    background-color: #EEEEEE;
+    border-radius: 1rem;
+}
+.btn{
+    color: white; 
+    background-color: black;
+    display: block;
+    margin : 0 auto;
+    border-radius: 1rem;
+}
+legend{
+    font-size: 2rem;
+}
